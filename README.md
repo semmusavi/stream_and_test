@@ -181,7 +181,7 @@ For sign-off, change into `E_streams` directory and copy commands into a termina
 
 Result:
 
-```
+
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  6264  100  6264    0     0  38354      0 --:--:-- --:--:-- --:--:-- 38666
